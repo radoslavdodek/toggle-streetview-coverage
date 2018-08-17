@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Toggle StreetView Converage"
+  },
+  "appShortName": {
+    "message": "Toggle StreetView"
+  },
+  "appDesc": {
+    "message": "Toggles available StreetView Coverage on Google Maps"
+  }
+}
