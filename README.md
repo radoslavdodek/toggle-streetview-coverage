@@ -13,6 +13,9 @@ grunt
 
 ![Google Chrome extension: Toggle StreetView Coverage preview](assets/toggle-streetview-preview.gif)
 
+
+<img src="https://github.com/radosdesign/toggle-streetview-coverage/blob/master/assets/toggle-streetview-preview.gif?raw=true" align="center" alt="Preview">
+
 ![Google Chrome extension: Toggle StreetView Coverage](http://radosdesign.github.io/toggle-streetview-banner1.png)
 
 ## License
