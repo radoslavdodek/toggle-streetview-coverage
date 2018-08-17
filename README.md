@@ -13,7 +13,7 @@ grunt
 
 ![Google Chrome extension: Toggle StreetView Coverage](http://radosdesign.github.io/toggle-streetview-banner1.png)
 
-# License
+## License
 
 Copyright (c) 2018 Radoslav Dodek
 
