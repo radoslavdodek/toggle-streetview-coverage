@@ -1,0 +1,10 @@
+{
+  "name": "pro-putin-propaganda",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~1.0.3",
+    "grunt-contrib-uglify": "~3.4.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-compress": "~1.4.3"
+  }
+}
