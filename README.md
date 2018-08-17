@@ -11,7 +11,7 @@ npm install
 grunt
 ```
 
-![Google Chrome extension: Toggle StreetView Coverage preview](http://radosdesign.github.io/toggle-streetview-preview.gif)
+![Google Chrome extension: Toggle StreetView Coverage preview](https://media.giphy.com/media/2Yc5mCYAro0wzOJhiI/giphy.gif)
 
 ![Google Chrome extension: Toggle StreetView Coverage](http://radosdesign.github.io/toggle-streetview-banner1.png)
 
