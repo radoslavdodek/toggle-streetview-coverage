@@ -16,7 +16,7 @@
          "suggested_key": {
             "chromeos": "Alt+S",
             "linux": "Alt+S",
-            "mac": "Alt+S",
+            "mac": "Option+S",
             "windows": "Alt+S"
          }
       }

@@ -1,17 +1,8 @@
-# Google Chrome extension: Warning of pro-Putin propaganda
+# Google Chrome extension: Toggle StreetView Coverage
 
-Warning of websites which knowingly or unknowingly spread pro-Putin propaganda. List of Slovak and Czech websites is created by activist and history teacher Juraj Smatana.
-When you are on the website which is on the list, icon which looks like soviet flag will be show on the right side of address bar.  
-You have been warned :-)
+I've always missed a keyboard shortcut to toggle StreetView Coverage on Google Maps. With this extension you can press Alt-S and the StreetView coverage will toggle.
 
-Media:  
-Slovak newspaper "Dennik N": http://goo.gl/R0h2rX  
-Slovak news website "Tvnoviny.sk": http://goo.gl/BuVELL  
-Slovak TV station "Markiza": http://goo.gl/MD25rX  
-Czech news website "Tiscali.cz": http://goo.gl/mT2izL  
-Czech news website "Eurozpravy.cz": http://goo.gl/CFBLjP  
-
-[View in Store](https://chrome.google.com/webstore/detail/upozornenie-na-putinovu-p/ajfhmidimnkpbhnkcckllicmhhdipmoo)  
+[View in Store](https://chrome.google.com/webstore/detail/)  
 
 ## How to build
 
@@ -20,4 +11,4 @@ npm install
 grunt
 ```
 
-![Google Chrome extension: Warning of pro-Putin propaganda](http://radosdesign.github.io/propaganda-screenshot.jpg)
+![Google Chrome extension: Warning of pro-Putin propaganda](http://radosdesign.github.io/toggle-streetview-banner1.jpg)
