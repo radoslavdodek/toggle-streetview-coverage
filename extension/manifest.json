@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "js/backgroundpage.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon_19.png",
+         "38": "img/icon_38.png"
+      },
+      "default_title": "Toggle StreetView Converage"
+   },
+   "description": "Toggles available StreetView Coverage on Google Maps",
+      "commands": {
+      "_execute_browser_action": {
+         "description": "Toggle StreetView Converage",
+         "suggested_key": {
+            "chromeos": "Alt+S",
+            "linux": "Alt+S",
+            "mac": "Alt+S",
+            "windows": "Alt+S"
+         }
+      }
+   },
+   "icons": {
+      "128": "img/icon_38.png",
+      "16": "img/icon_16.png",
+      "48": "img/icon_128.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "22",
+   "name": "Toggle StreetView Converage",
+   "permissions": [ "activeTab" ],
+   "short_name": "Toggle StreetView Coverage",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}
