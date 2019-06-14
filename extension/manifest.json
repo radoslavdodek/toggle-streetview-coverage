@@ -2,7 +2,7 @@
     "name": "__MSG_appName__",
     "short_name": "__MSG_appShortName__",
     "default_locale": "en",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "__MSG_appDesc__",
     "background": {
         "scripts": ["js/backgroundpage.js"],
