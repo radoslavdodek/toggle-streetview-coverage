@@ -211,10 +211,11 @@
         return false;
     };
 
-    chrome.browserAction.onClicked.addListener(function (tab) {
+    chrome.action.onClicked.addListener(function (tab) {
         if (isGoogleMaps(tab)) {
-            chrome.tabs.executeScript({
-                file: "js/content.js"
+            chrome.scripting.executeScript({
+              target: {tabId: tab.id},
+              files: ['js/content.js']
             });
         }
     });
