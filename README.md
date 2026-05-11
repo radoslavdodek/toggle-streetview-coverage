@@ -8,9 +8,9 @@ I've always missed a keyboard shortcut to toggle StreetView Coverage on Google M
 
 ### Prerequisites
 
-- Nodejs v14.16.1
+- Nodejs v18
     ```
-    nvm install v14.16.1
+    nvm install v18
     ```
 - Grunt
     ```
